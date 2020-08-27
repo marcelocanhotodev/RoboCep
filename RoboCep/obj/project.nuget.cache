@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HVZFJbZYLEZ3OC0sNKiDNW6eTP7t2WlioiUL+EcqX7ZH1YPUnJQLsuzeGl28ksSRvTdAAVdMxFOXj+IIftG8RA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marcelo.canhoto\\Downloads\\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\\Codigo Fonte\\RoboCep\\RoboCep\\RoboCep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marcelo.canhoto\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512",
+    "C:\\Users\\marcelo.canhoto\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

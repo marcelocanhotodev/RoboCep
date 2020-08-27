@@ -1,0 +1,17 @@
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\bin\Release\netcoreapp3.1\RoboCep.exe
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\bin\Release\netcoreapp3.1\ArquivoBase\Pachoalloto.csv
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\bin\Release\netcoreapp3.1\RoboCep.deps.json
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\bin\Release\netcoreapp3.1\RoboCep.runtimeconfig.json
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\bin\Release\netcoreapp3.1\RoboCep.runtimeconfig.dev.json
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\bin\Release\netcoreapp3.1\RoboCep.dll
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\bin\Release\netcoreapp3.1\RoboCep.pdb
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\bin\Release\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\bin\Release\netcoreapp3.1\RestSharp.dll
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\obj\Release\netcoreapp3.1\RoboCep.csprojAssemblyReference.cache
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\obj\Release\netcoreapp3.1\RoboCep.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\obj\Release\netcoreapp3.1\RoboCep.AssemblyInfoInputs.cache
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\obj\Release\netcoreapp3.1\RoboCep.AssemblyInfo.cs
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\obj\Release\netcoreapp3.1\RoboCep.csproj.CopyComplete
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\obj\Release\netcoreapp3.1\RoboCep.dll
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\obj\Release\netcoreapp3.1\RoboCep.pdb
+C:\Users\marcelo.canhoto\Downloads\RoboCep_Marcelo_Canhoto_-_Desafio_RPA\Codigo Fonte\RoboCep\RoboCep\obj\Release\netcoreapp3.1\RoboCep.genruntimeconfig.cache
